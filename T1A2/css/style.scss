@@ -1,0 +1,29 @@
+// import of url and easy css settings
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+$primary-color: #3b805d;
+$secondary-color: black;
+$third-color: gold;
+$max-mobile-width: 600px;
+$max-tablet-width: 1050px;
+
+// whole page settings
+
+* {
+    margin: 0;
+    padding: 0;
+    padding-right: .5rem;
+}
+
+// body css settings for the about me section
+
+body {
+    font-family: 'Anton', sans-serif;
+    color: $third-color;
+}
+
+// h1 settings
+
+h1 {
+    font-size: 7rem;
+}

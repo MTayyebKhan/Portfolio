@@ -1,3 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  padding-right: 0.5rem;
+}
 
+body {
+  font-family: "Anton", sans-serif;
+  color: gold;
+}
+
+h1 {
+  font-size: 7rem;
+}
 
 /*# sourceMappingURL=main.css.map */
