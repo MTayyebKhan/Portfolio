@@ -107,8 +107,38 @@ section {
 // background img settings
 
 .background-img img {
-    object-fit: cover;
+    object-fit: fill;
     max-width: 100%;
     height: 100vh;
+}
+
+// mask text settings
+
+.background-img svg {
+    font-family: "Anton";
+    font-size: 10rem;
+    font-weight: bold;
+    position: absolute;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
+
+// mask text parameters
+
+.background-img svg text {
+    transform-origin: center;
+}
+
+// mask rect link
+
+.background-img svg rect {
+    mask: url(#mask);
+}
+
+// mask color
+
+.background-img svg mask rect {
+    fill: white;
 }
 
