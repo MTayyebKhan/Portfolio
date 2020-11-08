@@ -142,3 +142,63 @@ section {
     fill: white;
 }
 
+// article section layout
+
+.article-section {
+    background-color: $primary-color;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: start;
+    grid-gap: 2rem;
+    padding: 8rem;
+    box-shadow: 3px 3px 3px $third-color;
+}
+
+// article layout
+
+.article {
+    display: grid;
+    background-color: #dadada;
+    color: $secondary-color;
+    box-shadow: 0 0 10px rgba(0,0,0,0.8);
+    cursor: pointer;
+    overflow: hidden;
+}
+
+// article img settings
+
+.article img {
+    grid-row: 1/2;
+    width: 100%;
+    transition: all ease-in-out 0.4s;
+}
+
+// article h3 settings
+
+.article-body h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    transition: all ease-in-out 0.3s;
+}
+
+// article body settings
+
+.article .article-body {
+    grid-row: 2/3;
+    padding: 2rem;
+    text-align: justify;
+    transition: all ease-in-out 0.3s;
+}
+
+// article hover settings
+
+.article:hover img {
+    transform: scale(1.1);
+}
+.article:hover h3 {
+    transform: translateY(-0.5em);
+}
+.article:hover .article-body {
+    transform: translateY(0.5em);
+}
+

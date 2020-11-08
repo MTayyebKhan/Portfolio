@@ -99,4 +99,54 @@ section {
   fill: white;
 }
 
+.article-section {
+  background-color: #3b805d;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: start;
+  grid-gap: 2rem;
+  padding: 8rem;
+  box-shadow: 3px 3px 3px gold;
+}
+
+.article {
+  display: grid;
+  background-color: #dadada;
+  color: black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.article img {
+  grid-row: 1/2;
+  width: 100%;
+  transition: all ease-in-out 0.4s;
+}
+
+.article-body h3 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  transition: all ease-in-out 0.3s;
+}
+
+.article .article-body {
+  grid-row: 2/3;
+  padding: 2rem;
+  text-align: justify;
+  transition: all ease-in-out 0.3s;
+}
+
+.article:hover img {
+  transform: scale(1.1);
+}
+
+.article:hover h3 {
+  transform: translateY(-0.5em);
+}
+
+.article:hover .article-body {
+  transform: translateY(0.5em);
+}
+
 /*# sourceMappingURL=main.css.map */
