@@ -277,8 +277,6 @@ section {
     font-size: .5rem;
 }
 
-
-
 // go to top buttom settings
 
 .gotop {
@@ -294,6 +292,86 @@ section {
     line-height: 40px;
     color: $primary-color;
     font-size: 50px;
+}
+
+.exp-section {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    align-items: start;
+    grid-gap: 2rem;
+    padding: 8rem;
+    background-color: $primary-color;
+    box-shadow: 3px 3px 3px $third-color;
+}
+.exp-article {
+    display: grid;
+    background-color: #dadada;
+    color: #272727;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.exp-article img {
+    align-self: center;
+    object-fit: fill;
+    grid-column: 1/2;
+    width: 100%;
+}
+
+.exp-description h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.exp-article .exp-description {
+    grid-column: 2/3;
+    padding: 2rem;
+    text-align: justify;
+}
+
+.exp-article:hover img {
+    transform: scale(1.1);
+}
+.exp-article:hover h3 {
+    transform: translateY(-0.5em);
+}
+.exp-article:hover .exp-description {
+    transform: translateY(0.5em);
+}
+
+// social menu buttons settings
+
+.social-menu h3 {
+    position: absolute;
+    bottom: 0;
+    padding: 1.5rem;
+}
+
+.social-menu ul {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 0;
+    margin: 0;
+    transform: translate(-50%, -50%);
+    display: flex;
+}
+
+.social-menu ul li .fab {
+    font-size: 2rem;
+    line-height: 60px;
+    transition: .6s;
+    color: $third-color;
+}
+
+.social-menu ul li {
+    list-style: none;
+    margin: 0 15px;
+}
+
+.social-menu ul li .fab:hover {
+    transform: translate(0, -10px);
 }
 
 // media queries settings home page
@@ -382,89 +460,6 @@ section {
 
 // media queries settings experience page
 
-.exp-section {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    align-items: start;
-    grid-gap: 2rem;
-    padding: 8rem;
-    background-color: $primary-color;
-    box-shadow: 3px 3px 3px $third-color;
-}
-.exp-article {
-    display: grid;
-    background-color: #dadada;
-    color: #272727;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
-    cursor: pointer;
-    overflow: hidden;
-}
-
-.exp-article img {
-    align-self: center;
-    object-fit: fill;
-    grid-column: 1/2;
-    width: 100%;
-}
-
-.exp-description h3 {
-    font-size: 2rem;
-    margin-bottom: 1rem;
-}
-
-.exp-article .exp-description {
-    grid-column: 2/3;
-    padding: 2rem;
-    text-align: justify;
-}
-
-.exp-article:hover img {
-    transform: scale(1.1);
-}
-.exp-article:hover h3 {
-    transform: translateY(-0.5em);
-}
-.exp-article:hover .exp-description {
-    transform: translateY(0.5em);
-}
-
-.social-menu h3 {
-    position: absolute;
-    bottom: 0;
-    padding: 1.5rem;
-}
-
-// social menu buttons
-
-.social-menu ul {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    padding: 0;
-    margin: 0;
-    transform: translate(-50%, -50%);
-    display: flex;
-}
-
-.social-menu ul li .fab {
-    font-size: 2rem;
-    line-height: 60px;
-    transition: .6s;
-    color: $third-color;
-}
-
-
-.social-menu ul li {
-    list-style: none;
-    margin: 0 15px;
-}
-
-.social-menu ul li .fab:hover {
-    transform: translate(0, -10px);
-}
-
-
-
 @media only screen and (max-width: $max-mobile-width) {
     mask{
         font-size: 4rem;
@@ -485,5 +480,3 @@ section {
         text-align: justify;
     }
 }
-
-// media queries settings contact page
