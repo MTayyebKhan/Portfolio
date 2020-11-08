@@ -218,6 +218,21 @@ img {
   font-size: 0.5rem;
 }
 
+.gotop {
+  position: fixed;
+  width: 23px;
+  height: 30px;
+  background: black;
+  bottom: 40px;
+  right: 50px;
+  text-decoration: none;
+  text-align: center;
+  justify-content: center;
+  line-height: 40px;
+  color: #3b805d;
+  font-size: 50px;
+}
+
 @media only screen and (max-width: 1050px) {
   .article-section {
     grid-template-columns: 1fr 1fr;
