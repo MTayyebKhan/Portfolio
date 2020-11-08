@@ -173,6 +173,7 @@ section {
   justify-content: center;
   display: flex;
   flex-wrap: wrap;
+  padding: 1rem;
 }
 
 .blog-img {
