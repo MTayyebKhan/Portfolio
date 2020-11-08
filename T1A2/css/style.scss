@@ -226,7 +226,7 @@ section {
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
-    padding: 1rem;
+    padding: .3rem;
 }
 
 .blog-img {
@@ -244,6 +244,7 @@ section {
 
 .blog-description {
     grid-row: 2/3;
+    padding: .3rem;
 }
 
 .blog-description .cta{
