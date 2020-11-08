@@ -10,6 +10,12 @@ body {
   color: gold;
 }
 
+img {
+  display: flex;
+  object-fit: contain;
+  width: 100%;
+}
+
 h1 {
   font-size: 7rem;
 }
