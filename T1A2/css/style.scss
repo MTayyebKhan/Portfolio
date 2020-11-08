@@ -318,7 +318,6 @@ p{  grid-row: 2/3;
 }
 }
 
-
 .exp-section {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -363,6 +362,26 @@ p{  grid-row: 2/3;
 }
 .exp-article:hover .exp-description {
     transform: translateY(0.5em);
+}
+
+@media only screen and (max-width: $max-mobile-width) {
+    .exp-section {
+        padding: 1rem;
+        
+    }
+    .exp-section img {
+        grid-column: 1/2;
+        grid-row: 2/3;
+        width: 100%;
+        transition: all ease-in-out 0.4s;
+    }
+    .exp-section .exp-description {
+        grid-column: 1/2;
+        grid-row: 1/2;
+        padding: 2rem;
+        text-align: justify;
+        transition: all ease-in-out 0.3s;
+    }
 }
 
 .gotop {
