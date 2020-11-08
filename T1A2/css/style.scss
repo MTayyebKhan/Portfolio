@@ -365,6 +365,9 @@ p{  grid-row: 2/3;
 }
 
 @media only screen and (max-width: $max-mobile-width) {
+    mask{
+        font-size: 4rem;
+    }
     .exp-section {
         padding: 1rem;
         
