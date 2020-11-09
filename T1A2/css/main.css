@@ -26,7 +26,6 @@ body h2 {
 }
 
 .main-header {
-  display: flex;
   position: fixed;
   width: 100%;
   background-color: black;
@@ -394,6 +393,62 @@ section {
     grid-row: 1/2;
     padding: 2rem;
     text-align: justify;
+  }
+}
+.nav {
+  border-bottom: 1px solid yellow;
+  text-align: right;
+  height: 70px;
+  line-height: 70px;
+}
+
+.menu {
+  margin: 0 30px 0 0;
+}
+
+.menu a {
+  clear: right;
+  text-decoration: none;
+  color: gold;
+  background-color: black;
+  margin: 0 10px;
+  line-height: 70px;
+}
+
+label {
+  color: gold;
+  margin: 0 40px 0 0;
+  font-size: 26px;
+  line-height: 70px;
+  display: none;
+  width: 26px;
+  float: right;
+}
+
+#toggle {
+  display: none;
+}
+
+@media only screen and (max-width: 500px) {
+  label {
+    display: block;
+    cursor: pointer;
+  }
+
+  .menu {
+    text-align: center;
+    width: 100%;
+    display: none;
+  }
+
+  .menu a {
+    display: block;
+    border-bottom: 1px solid #3b805d;
+    margin: 0;
+  }
+
+  #toggle:checked + .menu {
+    display: block;
   }
 }
 
