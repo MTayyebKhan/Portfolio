@@ -15,7 +15,7 @@ Basically created 4 linked pages that includes a home, blog, experience and a *s
 
 <img src="Screenshots/Sitemap.png">
 
-**Screenshots**
+# Screenshots
 **DESKTOP**
 <img src="Screenshots/desktop.png">
 
