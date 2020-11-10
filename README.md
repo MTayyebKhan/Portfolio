@@ -15,11 +15,15 @@ Basically created 4 linked pages that includes a home, blog, experience and a *s
 
 <img src="Screenshots/Sitemap.png">
 
-# Screenshots
+**Screenshots**
+<br>
+
 **DESKTOP**
+<br>
 <img src="Screenshots/desktop.png">
 
 **TABLET**
+<br>
 <img src="Screenshots/tablet.png">
 
 **MOBILE**
