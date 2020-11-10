@@ -27,4 +27,8 @@ At the moment, my audience is my fellow peers, as I believe that there audience 
 * HTML
 * CSS
 * SASS
-
+* BALSAMIQ
+* VSCODE
+* LIVE SERVER
+* NETLIFY
+* GITHUB
