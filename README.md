@@ -13,7 +13,7 @@ Basically created 4 linked pages that includes a home, blog, experience and a *s
 
 **Sitemap**
 
-
+<img src="Screenshots/Sitemap.png">
 
 **Screenshots**
 
