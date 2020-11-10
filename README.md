@@ -3,7 +3,7 @@
 
 https://laughing-pike-c8f62a.netlify.app/
 
-**Purpose**
+## Purpose
 The reason behind this portfolio is to demonsrate my ability to create a website portfolio about myself, demonstrating what I have learned so far and capable of creating.
 
 **Functionality/Features**
