@@ -21,7 +21,7 @@ Basically created 4 linked pages that includes a home, blog, experience and a *s
 
 **Target Audience**
 
-
+At the moment, my audience is my fellow peers, as I believe that there audience is myself. I wish to see what they come up with and what they are capable of doing at the moment and what inspired them aswell. Eventually, the goal is to target employers in the hopes of landing a job I will enjoy for the years to come.
 
 **Tech Stack**
 
