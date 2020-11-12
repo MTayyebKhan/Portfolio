@@ -1,6 +1,6 @@
 # Portfolio
 Written and created by Muhammed Tayyeb Khan
-**https://laughing-pike-c8f62a.netlify.app/**
+**https://nifty-nightingale-05edf8.netlify.app/**
 
 ## T1A2 Assignment
 **https://github.com/MTayyebKhan/Portfolio**
