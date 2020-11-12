@@ -1,0 +1,486 @@
+commit 23ce11c3abab466d9e445a520c762645caeb0a5b
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 12:21:32 2020 +1000
+
+    removed instagram
+
+commit 49e2685eb4d76d6ddc91cd83ecab196d95df756c
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 12:17:15 2020 +1000
+
+    more merge issues needing to be fixed
+
+commit daa5112c585825def27de2c21a0226377fdfa16b
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 12:14:57 2020 +1000
+
+    merge error, rectifying issues
+
+commit 254ab94fba08c9ef9cbaf096fba0da3708d0418e
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 12:06:49 2020 +1000
+
+    copied the correct scss file into folder
+
+commit 323ab56913ec317b0a1e5aa4962a400f8016a92b
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 12:01:05 2020 +1000
+
+    removed a merge issue
+
+commit ac572ae8b989bd17c5b814c5e80b381d1ba655e1
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 11:53:25 2020 +1000
+
+    changed my nav bar for mobile
+
+commit c811f7a8d6fe461176a522bbc974d2543926f9a6
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 07:16:01 2020 +1000
+
+    morning commit
+
+commit d750186083dc1e9b0d09974cb1d7500371d7b19a
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 20:39:20 2020 +1000
+
+    added more br
+
+commit adcdbd0172b6cc7ea213f9a3611063c19efdccf8
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 20:38:09 2020 +1000
+
+    line break added
+
+commit d828888ad40ef44c1dfa0f8460d6494579958f00
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 20:37:09 2020 +1000
+
+    changing layout
+
+commit ca050da58e9a5e17e58e050550a011ab968865de
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 20:36:01 2020 +1000
+
+    added screenshots
+
+commit cbff7f0ebe8dac943784a0a693a10a67afda1ca2
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 20:33:21 2020 +1000
+
+    fixed a typo
+
+commit bbd9a361800b7d0847904331fdddb20d14b56b2a
+Merge: 8ae3bcf 3502d3f
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 20:29:25 2020 +1000
+
+    Merge branch 'master' of https://github.com/MTayyebKhan/Portfolio
+
+commit 8ae3bcf0e134a7fd1c90c72e692b60c247f53dda
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 20:29:20 2020 +1000
+
+    added sitemap img
+
+commit 3502d3f3003664e979a25b80122c25ad49fd63da
+Author: MTayyebKhan <72896847+MTayyebKhan@users.noreply.github.com>
+Date:   Tue Nov 10 20:19:47 2020 +1000
+
+    FInished.drawio
+
+commit 1b9a6bfd2c73db735055f7bb2e7c47d5e4fcf1fe
+Author: MTayyebKhan <72896847+MTayyebKhan@users.noreply.github.com>
+Date:   Tue Nov 10 20:09:11 2020 +1000
+
+    PortfolioSitemap
+
+commit 531fbeb823950e2faebb88f51982dc00da141356
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 19:46:04 2020 +1000
+
+    added more tech
+
+commit ef3b8f2127114eeab484ee572dfb418c1531e467
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 19:41:34 2020 +1000
+
+    tech stack
+
+commit 62222f40cc2d16c22f829da8058aaf9e980c482a
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 19:32:59 2020 +1000
+
+    target audience para added
+
+commit 7505687dd483babfad75a0f7a61affa2e72dbf08
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 19:30:05 2020 +1000
+
+    Added Func/feat text
+
+commit 1994878c2d0e46f48d435ce9e9bd1b42372cec0c
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 19:24:04 2020 +1000
+
+    added github repo url
+
+commit 6ba98e453cc022ae25fd9d4c1f170ffe269610b3
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 19:22:25 2020 +1000
+
+    trying a different layout
+
+commit af5c30821085c9fe1a12c9c0c85ebd775d4f4e86
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 19:19:25 2020 +1000
+
+    changed header
+
+commit a6e6fa4003f876d5d1c72b674258f985e033037f
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 19:18:02 2020 +1000
+
+    pursose and link to portfolio added
+
+commit e29a26ae02dd0ad3329783420e365a9e809ed501
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Tue Nov 10 19:15:12 2020 +1000
+
+    added headers to readme
+
+commit 922e5eab6192b4cef95ebe06745f652a2eaf7644
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Mon Nov 9 17:10:06 2020 +1000
+
+    added github to contact page
+
+commit 10addb19d830affcf39bcff824703895ea294032
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Mon Nov 9 16:19:50 2020 +1000
+
+    trying new nav bar
+
+commit bb09e08a0e8fa7dca8cfa7ab14dde35efc46b05c
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 23:20:42 2020 +1000
+
+    cleaned up lines and added final comments
+
+commit 7715e7a26ab59df7a295ff323da58d07327ce5d3
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 23:11:09 2020 +1000
+
+    changed contact h3 location
+
+commit a208de9b01d27297b395e876420d7ae2e01d01b2
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 23:08:36 2020 +1000
+
+    adjusted social menu items
+
+commit 1c846c2ddb26f6e67773697baaebdd395f98302c
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 22:40:49 2020 +1000
+
+    removed gotop button on contact page
+
+commit 5acb53fbd729e73bd546eb26bbd2661b3703a5db
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 22:37:39 2020 +1000
+
+    added css code to social menu buttons
+
+commit e1bf7b7679ebee8396dd4d975654a1856c022a3d
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 21:20:13 2020 +1000
+
+    added a space for the footer
+
+commit 15f0606886e03351e36b6f0f49479324052ff86c
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 21:16:56 2020 +1000
+
+    changed source for blog img settings
+
+commit 8d08d85740acef22015823e2fc4d8a225ee7b4d6
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 21:12:02 2020 +1000
+
+    added more comments and removed extra code
+
+commit dce23e7fe5689915cdf7360f39cf962c7e366b50
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 21:07:49 2020 +1000
+
+    added comments and removed extra codes
+
+commit c057eab7aaaf256ba14ac45ea4afdb63ef06311a
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 20:58:26 2020 +1000
+
+    change mask text for experience mobile page
+
+commit 46acf101bf7beb67b0f8b4adafee4942e9275387
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 20:54:23 2020 +1000
+
+    removed transitions on media query
+
+commit b79a10e567ed3026a839ec58cd6374f9951c50cb
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 20:53:44 2020 +1000
+
+    added media query to exp page
+
+commit 3fd47d051671622a909683af92aefa7953ea66ae
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 20:37:45 2020 +1000
+
+    added media query
+
+commit 274dcf15002f226b810cde090279563f3870e056
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 20:36:16 2020 +1000
+
+    changed the padding on blog section and description
+
+commit dbc0cf2fc760580649037901ab41559b821ae8d7
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 20:34:53 2020 +1000
+
+    added padding to blog section
+
+commit 0be6fe20964ae66fa15caccdda0b6c655e7b5e75
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 20:33:05 2020 +1000
+
+    adjusted img to flex and contain
+
+commit 0ac9fb749c6e7a64e6287568eac6657d6dcf862a
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 20:32:45 2020 +1000
+
+    added nth child to blog
+
+commit 6b22a4275b9fec69975a978ed410131576817ee2
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 20:00:20 2020 +1000
+
+    gotop buttom css added
+
+commit 74cba044d0bdc8396b11c1101c3aa1d931527f32
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 19:58:41 2020 +1000
+
+    first draft of blog page css
+
+commit f0c3ecfcd002e2b836f9918e3298493b9c09d799
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 19:09:25 2020 +1000
+
+    added media queries for home page
+
+commit c0d214b38146fd9475f792c82ce702ebcb97fb70
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sun Nov 8 18:31:05 2020 +1000
+
+    home page css first draft completed
+
+commit d452b545bdacc81446e585be1857d3c11520758b
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 22:11:48 2020 +1000
+
+    organised my background img and mask
+
+commit 75f1fd479b76c2ec2779eb829c0e85f7e6e39957
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:55:19 2020 +1000
+
+    basic css settings applied
+
+commit 15f813dc5ef6acde3f26431860ca6a01fa21c506
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:33:52 2020 +1000
+
+    started scss, had to change link to css on htmls
+
+commit 38207bd69de78e9e539c72d97a9f9bdc700faa08
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:29:38 2020 +1000
+
+    validated code
+
+commit 405cc74f4df1b8ec7ac76d5abae50b1d991022e0
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:29:02 2020 +1000
+
+    error in pdf having spaces, fixed to underscores
+
+commit 91e6a9f3572f174a89bf371d7c1dca8bb513ef21
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:27:19 2020 +1000
+
+    changed the background img source
+
+commit 2a4ac5fc38353edb945b5710bd85ce1a40f1f3b9
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:26:32 2020 +1000
+
+    added footer and comments to page
+
+commit 8abdebc9d8efabf6f3b9be6708a73e3e126a24f4
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:24:23 2020 +1000
+
+    added social media buttons and links
+
+commit d056f21641c539d6c28e1c2027842d0e9d301c3c
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:18:15 2020 +1000
+
+    added forgotten comments
+
+commit 300002506adc7947b184e10d9fe04fff4425e40e
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:15:32 2020 +1000
+
+    validated code
+
+commit 0e0928169bc4e441345ae9ff1af958bbeb86ba1b
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:14:18 2020 +1000
+
+    had to change dot points to entities
+
+commit e58f33429f0e9129f9e531c0306c047340a62f2a
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:08:29 2020 +1000
+
+    added footer
+
+commit 0e4488b06d3733e92a8dd45b2dc7f5bfb38e2c08
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 21:07:53 2020 +1000
+
+    added photos and added resume bits into my article
+
+commit 8664b1e39e05a65762301b2387895c59b69e54b2
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 20:51:52 2020 +1000
+
+    copied mask and background from blog
+
+commit 5478d06519e70f7fd7456c26f15b47da61aa2f09
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 20:45:33 2020 +1000
+
+    validated blog code with 1 warning
+
+commit 76280a2b177276e9cdf71c9baf1233b786c35420
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 20:41:46 2020 +1000
+
+    added comments to code
+
+commit da15696e42f9979297a1842dc5ed16d9026044c5
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 20:40:20 2020 +1000
+
+    added index footer to blog
+
+commit 2d4cdec8c94bea6c59274450697bf4dd442f408f
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 20:39:05 2020 +1000
+
+    lorem ipsum my blog with images
+
+commit 5d9053dcf0e515654b5e439d2520a0de35438317
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 20:28:39 2020 +1000
+
+    added blog post images
+
+commit 04eabf0bf810dc7727e24116ca9db74190077ec0
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 20:04:54 2020 +1000
+
+    blog section container made
+
+commit c48d02b3ebe8f4220ddfb11eda71866ea1f36fad
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 18:04:19 2020 +1000
+
+    added mask to blog page
+
+commit 4fc40d62036a485d891f834c349804f7b590f1f8
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 17:53:11 2020 +1000
+
+    forgot to add title section
+
+commit 94ad76896bf110780d763ad0f8faf25dcf72c758
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 17:43:52 2020 +1000
+
+    created css via sass
+
+commit 54e5f1cb71d62a98ef9e97ab59c4e7d368c8dc14
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 17:41:46 2020 +1000
+
+    added background img
+
+commit 93c8c76a102c3135ad94089bb118c966e4f34c9c
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 17:33:49 2020 +1000
+
+    validated my code
+
+commit 7aaa9f6f91e490d96fb1a6de08145284d42f9edd
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 17:31:10 2020 +1000
+
+    added comments to footer
+
+commit 79ef2c4f6835ded20d4d280b8768073201b19aca
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 17:29:48 2020 +1000
+
+    Article section completed first draft of code
+
+commit 19743f7bf52aa9371d6b1acef5d82bd01b262cee
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 17:04:22 2020 +1000
+
+    background img added
+
+commit e279beb0eef61544135badc6af49962c076e4be7
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 16:54:22 2020 +1000
+
+    main header and nav bar links added
+
+commit 9e2913b3a8f90189b49d27cbcbb0619a8ee22842
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 16:21:00 2020 +1000
+
+    created scss file
+
+commit 3899124ff6841fabe79c8de2a77f664561b44608
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 16:19:55 2020 +1000
+
+    added meta tags
+
+commit ac2f36195171213d283867078b6e44e6970456db
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 16:13:23 2020 +1000
+
+    base skeleton, images and pdf resume added
+
+commit 0648954e9f5f952f65cf228d5f29c61c7924a80e
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 7 15:54:44 2020 +1000
+
+    added folders and 4 htmls
