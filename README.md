@@ -13,22 +13,22 @@ Basically created 4 linked pages that includes a home, blog, experience and a *s
 
 **Sitemap**
 
-<img src="Screenshots/Sitemap.png">
+<img src="docs/Sitemap.png">
 
 **Screenshots**
 <br>
 
 **DESKTOP**
 <br>
-<img src="Screenshots/desktop.png">
+<img src="docs/desktop.png">
 
 **TABLET**
 <br>
-<img src="Screenshots/tablet.png">
+<img src="docs/tablet.png">
 
 **MOBILE**
 <br>
-<img src="Screenshots/mobile.png">
+<img src="docs/mobile.png">
 
 
 **Target Audience**
