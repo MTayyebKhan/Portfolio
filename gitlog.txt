@@ -1,3 +1,33 @@
+commit 94082f75da2266e3e025a361857fb3d2f55a9e9e
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 14:11:58 2020 +1000
+
+    adjusted image src location
+
+commit 1b36f8be2cec23d0fc725634e8098f5db0b4fa9e
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 14:08:44 2020 +1000
+
+    changed structure of mkdir
+
+commit 0742b959e98c22a0c90207f724483524c289950f
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 13:29:34 2020 +1000
+
+    added sri to fontawesome with comments on how to
+
+commit 0b3dfb0bc7861b2c871e27254d15c153564876c3
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 12:45:10 2020 +1000
+
+    added SRI to all pages
+
+commit d71dd32bcbb08ea113a6ebba7ee4d18d78947ec0
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 12:30:19 2020 +1000
+
+    created gitlog
+
 commit 23ce11c3abab466d9e445a520c762645caeb0a5b
 Author: MTayyebKhan <tayyeb.10@live.com>
 Date:   Thu Nov 12 12:21:32 2020 +1000
