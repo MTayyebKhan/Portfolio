@@ -44,6 +44,7 @@ body h2{
 // main header settings where my nav links are set in
 
 .main-header {
+    display: grid;
     position: fixed;
     width: 100%;
     background-color: $secondary-color;
@@ -51,38 +52,54 @@ body h2{
     z-index: 2;
 }
 
-// brand element settings
+// brand elemenet settings
 
 .main-header .brand {
+    align-self: center;
+    grid-column: 1/2;
+    grid-row: 1/2;
     font-size: 2rem;
     font-weight: bold;
-    padding: 2rem;
-    
+    padding: .5rem;
 }
 
 // navigation element settings
 
-.main-header .main-nav {
-    width: 100%;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    padding-right: 1rem;
+.nav {
+    align-self: center;
+    grid-column: 2/3;
+    grid-row: 1/2;
+    text-align: right;
+    height: 70px;
+    line-height: 70px;
 }
 
-// settings for the nav link container 
-
-.main-nav .nav-link {
-    list-style: none;
-    padding: .1rem;
+.menu {
+    display: inline;
+    margin: 0 30px 0 0;
 }
 
-// the link settings for the nav links themselves
-
-.nav-link a {
+.menu a {
+    clear: right;
     text-decoration: none;
-    font-size: 1.5rem;
     color: $third-color;
+    background-color: $secondary-color;
+    margin: 0 10px;
+    line-height: 70px;
+}
+
+label {
+    color: $third-color;
+    margin: 0 40px 0 0;
+    font-size: 26px;
+    line-height: 70px;
+    display: none;
+    width: 26px;
+    float: right;
+}
+
+#toggle {
+    display: none;
 }
 
 // section settings
@@ -403,11 +420,30 @@ section {
     }
   }
 
-@media only screen and (max-width: $max-mobile-width) {
-    .nav-link a{
-      font-size: .9rem;
+// media queries for nav
+
+@media only screen and (max-width: 500px) {
+    label {
+        display: block;
+        cursor: pointer;
     }
-  }
+    .menu {
+        text-align: center;
+        width: 100%;
+        display: none;
+    }
+    .menu a {
+        width: 100%;
+        display: block;
+        border-bottom: 1px solid $primary-color;
+        margin: 0;
+    }
+    #toggle:checked + .menu {
+        display: block;
+    }
+}
+
+// h1 media queries 
 
 @media only screen and (max-width: $max-mobile-width) {
     h1{
@@ -478,61 +514,5 @@ section {
         grid-row: 1/2;
         padding: 2rem;
         text-align: justify;
-    }
-}
-
-
-
-.nav {
-    border-bottom: 1px solid yellow;
-    text-align: right;
-    height: 70px;
-    line-height: 70px;
-}
-
-.menu {
-    margin: 0 30px 0 0;
-}
-
-.menu a {
-    clear: right;
-    text-decoration: none;
-    color: $third-color;
-    background-color: $secondary-color;
-    margin: 0 10px;
-    line-height: 70px;
-}
-
-label {
-    color: $third-color;
-    margin: 0 40px 0 0;
-    font-size: 26px;
-    line-height: 70px;
-    display: none;
-    width: 26px;
-    float: right;
-}
-
-#toggle {
-    display: none;
-}
-
-@media only screen and (max-width: 500px) {
-    label {
-        display: block;
-        cursor: pointer;
-    }
-    .menu {
-        text-align: center;
-        width: 100%;
-        display: none;
-    }
-    .menu a {
-        display: block;
-        border-bottom: 1px solid $primary-color;
-        margin: 0;
-    }
-    #toggle:checked + .menu {
-        display: block;
     }
 }
