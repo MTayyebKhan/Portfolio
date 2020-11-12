@@ -373,6 +373,7 @@ section {
     margin: 0;
     transform: translate(-50%, -50%);
     display: flex;
+    flex-wrap: wrap;
 }
 
 .social-menu ul li .fab {
