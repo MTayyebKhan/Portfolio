@@ -1,6 +1,6 @@
 # Portfolio
 Written and created by Muhammed Tayyeb Khan
-**https://nifty-nightingale-05edf8.netlify.app/**
+**https://mtayyebkhan.netlify.app/**
 
 ## T1A2 Assignment
 **https://github.com/MTayyebKhan/Portfolio**
