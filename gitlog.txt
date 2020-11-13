@@ -1,3 +1,69 @@
+commit 13b20d9dda74f8962ed7998528bacc22e57e90d7
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Fri Nov 13 15:57:10 2020 +1000
+
+    updated img again and fixed readme to align
+
+commit c3ace8fcf62d64636b325a933245cbd01d151322
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Fri Nov 13 15:53:44 2020 +1000
+
+    sitemap updated
+
+commit f84702aff64a8ff812b1883ecf3e96de8011a482
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Fri Nov 13 15:52:20 2020 +1000
+
+    updated sitemap
+
+commit 412b4cb2c488d0a0ec43f6f6e11994449c3d945a
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Fri Nov 13 15:50:24 2020 +1000
+
+    pdf presentation added and updated sitemap
+
+commit 35c82d620a020583796e6478881c582157441af5
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Fri Nov 13 15:40:42 2020 +1000
+
+    removed speech from folder
+
+commit 0359188b72c445e2bf1524d838f4434aefd73646
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Fri Nov 13 15:39:10 2020 +1000
+
+    changed deployed location
+
+commit 09fe1c83ea9d104037eda8346a5501ff96bc5723
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 19:48:14 2020 +1000
+
+    changed netlify link
+
+commit c0f8e0fbbbae39a8733f7f9efb9f2e33524045c8
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 15:05:25 2020 +1000
+
+    updated wireframe and sitemap
+
+commit 05efe8932a64df2cca75e3ee95d6c158b6517750
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 14:19:14 2020 +1000
+
+    updated resume
+
+commit 58f79df16535b0aa2da33886022ca71bf317ce0e
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 14:17:24 2020 +1000
+
+    updated readme to match structure
+
+commit bbebae90377c7303308c06d888e1f3e3b6e73dfe
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Thu Nov 12 14:12:39 2020 +1000
+
+    updated gitlog txt
+
 commit 94082f75da2266e3e025a361857fb3d2f55a9e9e
 Author: MTayyebKhan <tayyeb.10@live.com>
 Date:   Thu Nov 12 14:11:58 2020 +1000
