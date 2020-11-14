@@ -1,3 +1,15 @@
+commit 3f65ff333c5271e36b1e833da8f31f8247fa8b1d
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Sat Nov 14 22:18:06 2020 +1000
+
+    changed sha384 to sha512 and moved resume location
+
+commit 90fdd26510dc1d41e6430a5628734f736b34af85
+Author: MTayyebKhan <tayyeb.10@live.com>
+Date:   Fri Nov 13 15:58:42 2020 +1000
+
+    updated gitlogtxt
+
 commit 13b20d9dda74f8962ed7998528bacc22e57e90d7
 Author: MTayyebKhan <tayyeb.10@live.com>
 Date:   Fri Nov 13 15:57:10 2020 +1000
